@@ -64,3 +64,4 @@ trainer.train(
 plotter = Plotter()
 plotter.plot_training_curves("resources/taggers/example-ner/loss.tsv")
 plotter.plot_weights("resources/taggers/example-ner/weights.txt")
+test
